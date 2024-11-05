@@ -1,7 +1,9 @@
 🌍 Gourmet Globe
+
 Dobrodošli v Gourmet Globe – vašem potnem listu do okusov z vsega sveta! Ta aplikacija je zasnovana tako, da omogoča dostop do svetovne kulinarike, prinaša raznolike in okusne recepte neposredno v vašo kuhinjo.
 
 🚀 Funkcije
+
 🌎 Raziskovanje receptov: Odkrijte jedi iz različnih držav in kultur, od ulične hrane do gurmanskih jedi.
 🧑‍🍳 Korak za korakom: Jasni in enostavni recepti za vsak nivo znanja.
 🥣 Avtentični nasveti za kuhanje: Spoznajte kulturne vpoglede in kuharske tehnike z vsega sveta.
@@ -11,6 +13,7 @@ Frontend: React, CSS
 Backend: Spring Boot (Java)
 Baza podatkov: MySQL za shranjevanje receptov
 API: RESTful API, razvit z uporabo Spring Boot
+
 🤝 Prispevki
 Prispevki so dobrodošli! Da prispevate:
 
@@ -43,6 +46,7 @@ Ocena: Mnenje uporabnika o receptu, izraženo s številčnimi ocenami in komenta
 Kulinarične tehnike: Posebne metode priprave hrane, ki se uporabljajo pri različnih receptih.
 Sestavine: Hrana in materiali, potrebni za pripravo receptov.
 Kategorija: Razvrstitev receptov glede na vrsto jedi, npr. predjedi, glavne jedi, sladice.
+
 3. Diagram primerov uporabe
 Diagram primerov uporabe:
 
