@@ -46,7 +46,8 @@ Kategorija: Razvrstitev receptov glede na vrsto jedi, npr. predjedi, glavne jedi
 3. Diagram primerov uporabe
 Diagram primerov uporabe:
 
-V obdelavo...
+![gourmetglobedpu](https://github.com/user-attachments/assets/90cb62aa-d583-4bdc-b43c-a363954c4c5d)
+
 
 Opis primerov uporabe:
 Registracija uporabnika: Uporabnik se lahko registrira in ustvari svoj profil.
