@@ -5,9 +5,13 @@ Dobrodošli v Gourmet Globe – vašem potnem listu do okusov z vsega sveta! Ta 
 🚀 Funkcije
 
 🌎 Raziskovanje receptov: Odkrijte jedi iz različnih držav in kultur, od ulične hrane do gurmanskih jedi.
+
 🧑‍🍳 Korak za korakom: Jasni in enostavni recepti za vsak nivo znanja.
+
 🥣 Avtentični nasveti za kuhanje: Spoznajte kulturne vpoglede in kuharske tehnike z vsega sveta.
+
 💬 Ocene in mnenja uporabnikov: Delite svoje izkušnje in poglejte, kaj o vsakem receptu menijo drugi.
+
 🛠️ Tehnologije
 Frontend: React, CSS
 Backend: Spring Boot (Java)
