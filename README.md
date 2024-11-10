@@ -31,7 +31,7 @@ Frontend: Za zagon frontend aplikacije uporabite ukaz npm run dev.
 🤝 Prispevki
 
 Forknite repozitorij
-git clone https://github.com/vaš-repozitorij/gourmet-globe.git
+git clone https://github.com/RIS/gourmet-globe.git
 cd gourmet-globe
 
 
