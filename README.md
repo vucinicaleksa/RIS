@@ -61,7 +61,7 @@ Dostopnost: Omogočiti uporabnikom, da enostavno najdejo in sledijo receptom iz 
 
 Izobraževanje: Povezati uporabnike z bogato kulinarično dediščino različnih kultur, kar spodbuja razumevanje in cenjenje raznolikosti okusov.
 
-Skupnost: Ustvariti prostor, kjer lahko uporabniki delijo svoje izkušnje, ocene in mnenja o receptih, kar krepi občutek skupnosti in sodelovanja.
+Skupnost: Ustvariti prostor, kjer lahko uporabniki delijo svoje izkušnje, ocene o receptih, kar krepi občutek skupnosti in sodelovanja.
 
 Naša ciljna publika so ljubitelji hrane, domači kuharji in kulinarični navdušenci, ki želijo razširiti svoje znanje in izkušnje ter odkrivati nove okuse.
 
@@ -71,15 +71,14 @@ Naša ciljna publika so ljubitelji hrane, domači kuharji in kulinarični navdu�
 Besednjak:
 
 Recept: Navodila za pripravo jedi, ki vključujejo seznam sestavin in postopke kuhanja.
-Uporabniški profil: Osebni račun, ki omogoča shranjevanje najljubših receptov, pisanje ocen in komentiranje.
 
-Ocena: Mnenje uporabnika o receptu, izraženo s številčnimi ocenami in komentarji.
+Ocena: Mnenje uporabnika o receptu, izraženo s Like in Dislike.
 
 Kulinarične tehnike: Posebne metode priprave hrane, ki se uporabljajo pri različnih receptih.
 
 Sestavine: Hrana in materiali, potrebni za pripravo receptov.
 
-Kategorija: Razvrstitev receptov glede na vrsto jedi, npr. predjedi, glavne jedi, sladice.
+Kategorija: Razvrstitev receptov glede na drzavo, npr. Slovenija, Makedonija...
 
 
 3. Diagram primerov uporabe
@@ -90,8 +89,13 @@ Diagram primerov uporabe:
 
 
 Opis primerov uporabe:
-Registracija uporabnika: Uporabnik se lahko registrira in ustvari svoj profil.
-Iskanje receptov: Uporabnik lahko išče recepte po kategorijah, sestavinah ali imenu.
-Dodajanje recepta: Uporabnik lahko doda svoj recept in ga deli z drugimi.
-Ocena recepta: Uporabnik lahko oceni in komentira obstoječe recepte.
-Shranjevanje najljubih receptov: Uporabnik lahko shrani recepte, ki jih želi preizkusiti kasneje.
+
+Iskanje receptov: Uporabnik lahko išče recepte po kategorijah, drzave.
+
+Pregled receptov: Uporabnik si lahko ogleda podrobnosti o receptih, vključno s sestavinami in navodili za pripravo.
+
+Dodajanje novih receptov (samo za admina): Admin lahko doda nove recepte, ki so vidni vsem uporabnikom.
+
+Ocena recepta: Uporabnik lahko oceni obstoječe recepte.
+
+Dodajanje novega admina (samo za admina): Admin lahko doda drugega admina za upravljanje vsebine na platformi.
