@@ -12,6 +12,7 @@ Dobrodošli v Gourmet Globe – vašem potnem listu do okusov z vsega sveta! Ta 
 
 💬 Ocene in mnenja uporabnikov: Delite svoje izkušnje in poglejte, kaj o vsakem receptu menijo drugi.
 
+
 🛠️ Tehnologije
 
 Frontend: React (zadnja stabilna verzija – trenutno 18.2.0), CSS
@@ -22,11 +23,13 @@ Baza podatkov: MySQL (zadnja stabilna verzija – trenutno 8.0.34) za shranjevan
 
 API: RESTful API, razvit z uporabo Spring Boot
 
+
 🔧 Navodila za zaganjanje aplikacije
 
 Backend: Prvič se zažene z uporabo gumba Run v izvajalnem okolju IntelliJ IDEA.
 
 Frontend: Za zagon frontend aplikacije uporabite ukaz npm run dev.
+
 
 🤝 Prispevki
 
@@ -42,10 +45,12 @@ Zavežite svoje spremembe (git commit -m 'Dodaj novo funkcionalnost')
 Pritisnite na vejo (git push origin feature/YourFeature)
 Odprite pull request
 
+
 🌟 Zahvale
 Velika zahvala kulinaričnim skupnostim po vsem svetu za navdih in avtentične recepte, ki omogočajo, da Gourmet Globe zaživi!
 
 1. Vizija projekta
+
 Vizija projekta:
 
 Gourmet Globe je inovativna aplikacija, ki uporabnikom omogoča raziskovanje svetovne kulinarike in odkrivanje okusov iz različnih kultur. Namen aplikacije je poenostaviti dostop do avtentičnih receptov in kulinaričnih informacij, kar uporabnikom omogoča, da razširijo svoje kulinarične veščine in izkušnje.
@@ -59,6 +64,7 @@ Izobraževanje: Povezati uporabnike z bogato kulinarično dediščino različnih
 Skupnost: Ustvariti prostor, kjer lahko uporabniki delijo svoje izkušnje, ocene in mnenja o receptih, kar krepi občutek skupnosti in sodelovanja.
 
 Naša ciljna publika so ljubitelji hrane, domači kuharji in kulinarični navdušenci, ki želijo razširiti svoje znanje in izkušnje ter odkrivati nove okuse.
+
 
 2. Besednjak
    
@@ -74,6 +80,7 @@ Kulinarične tehnike: Posebne metode priprave hrane, ki se uporabljajo pri razli
 Sestavine: Hrana in materiali, potrebni za pripravo receptov.
 
 Kategorija: Razvrstitev receptov glede na vrsto jedi, npr. predjedi, glavne jedi, sladice.
+
 
 3. Diagram primerov uporabe
 
