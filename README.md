@@ -85,7 +85,7 @@ Kategorija: Razvrstitev receptov glede na drzavo, npr. Slovenija, Makedonija...
 
 Diagram primerov uporabe:
 
-![gourmetglobedpu](https://github.com/user-attachments/assets/90cb62aa-d583-4bdc-b43c-a363954c4c5d)
+![gourmetglobedpu](https://github.com/user-attachments/assets/5846f7fe-487f-4460-8974-3a6683116109)
 
 
 Opis primerov uporabe:
@@ -99,3 +99,6 @@ Dodajanje novih receptov (samo za admina): Admin lahko doda nove recepte, ki so 
 Ocena recepta: Uporabnik lahko oceni obstoječe recepte.
 
 Dodajanje novega admina (samo za admina): Admin lahko doda drugega admina za upravljanje vsebine na platformi.
+
+[Primeri uporabe.docx](https://github.com/user-attachments/files/17718632/Primeri.uporabe.docx)
+
