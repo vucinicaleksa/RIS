@@ -101,5 +101,5 @@ Ocena recepta: Uporabnik lahko oceni obstoječe recepte.
 
 Dodajanje novega admina (samo za admina): Admin lahko doda drugega admina za upravljanje vsebine na platformi.
 
-[Primeri uporabe.docx](https://github.com/user-attachments/files/17718632/Primeri.uporabe.docx)
+[Primeri uporabe.docx](https://github.com/user-attachments/files/17806514/Primeri.uporabe.docx)
 
