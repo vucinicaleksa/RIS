@@ -85,7 +85,8 @@ Kategorija: Razvrstitev receptov glede na drzavo, npr. Slovenija, Makedonija...
 
 Diagram primerov uporabe:
 
-![gourmetglobedpu](https://github.com/user-attachments/assets/5846f7fe-487f-4460-8974-3a6683116109)
+![gourmetglobedpu drawio](https://github.com/user-attachments/assets/e91583e6-8079-41b2-a8be-a17ec48ff5bd)
+
 
 
 Opis primerov uporabe:
